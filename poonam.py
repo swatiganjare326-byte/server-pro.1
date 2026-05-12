@@ -1,1 +1,1 @@
-print ("P2")
+print ("P2")  
